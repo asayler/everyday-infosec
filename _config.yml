@@ -138,7 +138,7 @@ exclude:
   - node_modules
   - package.json
   - Rakefile
-  - README
+  - README.md
   - tmp
 keep_files:
   - .git
