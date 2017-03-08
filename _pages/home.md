@@ -1,11 +1,6 @@
 ---
 permalink: /
 layout: single
-author_profile: true
+title: "Digital Security Tips, Tricks, and Training"
+author_profile: false
 ---
-
-This is a test
---------------
-
-Testing 1.. 2.. 3..
-

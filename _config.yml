@@ -177,7 +177,7 @@ sass:
 permalink: /:categories/:title/
 #paginate: 5 # amount of posts to show
 #paginate_path: /page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Denver # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
@@ -186,7 +186,7 @@ gems:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-# - jekyll-paginate
+  - jekyll-paginate
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -194,7 +194,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-# - jekyll-paginate
+  - jekyll-paginate
 
 # Archives
 #  Type
@@ -232,6 +232,10 @@ compress_html:
   ignore:
     envs: development
 
+collections:
+  events:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -242,7 +246,25 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: # true
+      read_time: false
+      comments: false
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+  # _events
+  - scope:
+      path: ""
+      type: events
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
       share: true
       related: true
