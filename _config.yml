@@ -33,7 +33,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "AndySayler"
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -48,9 +48,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : google-universal # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : UA-93334446-1
 
 # Site Author
 author:
@@ -147,7 +147,6 @@ gems:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-#  - jekyll-paginate
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -155,7 +154,6 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-#  - jekyll-paginate
 
 # Archives
 #  Type
