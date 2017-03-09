@@ -1,16 +1,13 @@
 ---
-permalink: /events-archive/
+permalink: /events/
 layout: archive
-title: "Events Archive"
+title: "Events"
 author_profile: false
 ---
 
-About
------
+All events are free and open to the public. Click each event below for
+details.
 
-All events are free and open to the public. They are appropriate for
-all audiences, and require no prior experience or special knowledge.
-
-Upcoming
---------
-
+{% for post in site.events %}
+  {% include archive-single.html %}
+{% endfor %}

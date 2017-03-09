@@ -1,4 +1,47 @@
 ---
-title: "Boulder Security Training"
-excerpt: "Infosec 101 at the Boulder Public Library"
+title: "Digital Security 101: InfoSec for Everyone"
+excerpt: "10:30 AM on 03/25/17 @ The Boulder Public Library - Boulder Creek Room"
+author: Andy Sayler
 ---
+
+**Where:** [Boulder Public Library](https://boulderlibrary.org/locations/main/)
+         - [Boulder Creek Room](https://boulderlibrary.org/services/meeting-rooms/main-library-meeting-room-maps/)  
+**When:** [10:30 AM MT in Saturday, March 25th, 2017](https://www.eventbrite.com/e/digital-security-101-infosec-for-everyone-tickets-32679647706)  
+**Duration:** 1.5 Hours  
+**RSVP:** Please RSVP via [EventBrite](https://www.eventbrite.com/e/digital-security-101-infosec-for-everyone-tickets-32679647706)
+
+Overview
+--------
+
+Have you wondered how safe your digital interactions are online? Do
+you want to know how digital security professionals behave and protect
+themselves? Are you just curious about the latest "hacking"-related
+news headlines? If you answered "yes" to any of these questions, then
+this event is for you!
+
+Attend to learn the basic tips and tricks of securing yourself in our
+digital world. We'll cover the basics of understanding the risks we
+face, discuss how to minimize those risks, and recommend some best
+practices for protecting ourselves in a connected world. The format
+will include a 30-minute open Q&A session -- get answers from your
+friendly local infosec experts on any questions you may have!
+
+Audience
+--------
+
+This event is free and open to the public. No prior experience or
+special knowledge is necessary. All ages and backgrounds
+welcome. Bring yourself and (optionally) the computing devices your
+most regularly use.
+
+Presenter
+---------
+
+The event will be led by [Dr. Andy
+Sayler](https://www.andysayler.com), a local Security Engineer with
+[Twitter](https://www.twitter.com). Andy holds a PhD in Computer
+Science from the [University of Colorado,
+Boulder](http://www.colorado.edu) with a research emphasis on digital
+security and privacy. Andy will be joined by additional experts from
+the [Colorado EFA](http://efacolorado.com) and local security,
+privacy, and legal communities.
