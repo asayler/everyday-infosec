@@ -6,7 +6,7 @@ ruby RUBY_VERSION
 #     bundle exec jekyll serve
 #
 
-gem "jekyll", "3.4.1"
+gem "jekyll", "3.6.2"
 
 gem "minimal-mistakes-jekyll"
 
