@@ -102,7 +102,7 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-sitemap
   jemoji
-  minimal-mistakes-jekyll
+  minimal-mistakes-jekyll (= 4.8.0)
   tzinfo-data
 
 RUBY VERSION

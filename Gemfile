@@ -8,7 +8,7 @@ ruby RUBY_VERSION
 
 gem "jekyll", "3.6.2"
 
-gem "minimal-mistakes-jekyll"
+gem "minimal-mistakes-jekyll", "4.8.0"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
