@@ -192,9 +192,12 @@ compress_html:
     envs: development
 
 collections:
-  events:
+  past_events:
     output: true
-    permalink: /:collection/:path/
+    permalink: /events/:path/
+  planned_events:
+    output: true
+    permalink: /events/:path/
 
 # Defaults
 defaults:
@@ -216,10 +219,21 @@ defaults:
     values:
       layout: single
       author_profile: false
-  # _events
+  # _past_events
   - scope:
       path: ""
-      type: events
+      type: past_events
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: true
+      related: true
+  # _planned_events
+  - scope:
+      path: ""
+      type: planned_events
     values:
       layout: single
       author_profile: true
