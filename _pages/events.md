@@ -5,7 +5,7 @@ title: "Events"
 author_profile: false
 ---
 
-All events are free and open to the public. Click each event below for
+All events are free and open to the public. Click an event below for
 details.
 
 # Upcoming Events
